@@ -2,7 +2,7 @@
 ## A comparison of several Regression models to find the optimal algorithm
 
 ### Team Member/Collaborator 
-This project was done in collaboration with <a href="https://github.com/anisazh96">Anisa Zhurda</a> as a university project.
+This project was done in collaboration with <a href="https://github.com/anisazh96">Anisa Zhurda</a>.
 
 ### Datasets
 The Original Dataset can be found in the Kaggle competion linked <a href="https://www.kaggle.com/c/ga-customer-revenue-prediction/data">here</a>.
