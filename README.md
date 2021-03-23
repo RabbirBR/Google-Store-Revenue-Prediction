@@ -10,4 +10,4 @@ The Original Dataset can be found in the Kaggle competion linked <a href="https:
 Our preprocessed data can be found <a href="https://www.dropbox.com/sh/phy4mc2p57jfc6j/AAA7_BRXA_DmXFWHvz_ZhlJxa?dl=0">in this dropbox folder</a>.
 
 ### Report
-The report for the project is also provided as a pdf.
+The report for the project is also provided as "Google Store Revenue Prediction Report.pdf".
